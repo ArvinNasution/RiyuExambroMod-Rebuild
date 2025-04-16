@@ -1,6 +1,6 @@
 # RiyuExamBro Mod
 
-(![unnamed](https://github.com/user-attachments/assets/c7d930db-dfd9-40f9-b828-fbf2338baa75)
+![unnamed](https://github.com/user-attachments/assets/c7d930db-dfd9-40f9-b828-fbf2338baa75)
 
 Modifikasi dari **RiyuExamBro** dengan tambahan fitur yang tidak tersedia pada versi aslinya, termasuk dukungan multi-tasking dan penghapusan berbagai pembatas sistem.
 
@@ -10,7 +10,7 @@ Modifikasi dari **RiyuExamBro** dengan tambahan fitur yang tidak tersedia pada v
 
 > **Pilih versi modifikasi yang sesuai dengan kebutuhan Anda:**
 
-- **RiyuExamBro-Mod** – [Download](https://github.com/ArvinNasution/RDEV-ExamBrowser-Rebuild/releases/download/apps/app-release.apk)
+- **RiyuExamBro-Mod** – [Download](https://github.com/ArvinNasution/RiyuExambroMod-Rebuild/releases/download/Apps/app-release.apk)
 
 ---
 
