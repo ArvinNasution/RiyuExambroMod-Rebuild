@@ -1,7 +1,6 @@
 # RiyuExamBro Mod
 
-![app_icon](![logo](https://github.com/user-attachments/assets/8a144c16-73cd-4472-8b3f-08e860f424eb)
-)
+![app_icon](![unnamed](https://github.com/user-attachments/assets/c7d930db-dfd9-40f9-b828-fbf2338baa75)
 
 Modifikasi dari **RiyuExamBro** dengan tambahan fitur yang tidak tersedia pada versi aslinya, termasuk dukungan multi-tasking dan penghapusan berbagai pembatas sistem.
 
